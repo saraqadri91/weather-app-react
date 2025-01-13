@@ -1,5 +1,5 @@
 
-import Weather from "./assets/components/weather"
+import Weather from "./assets/components/Weather"
 
 function App() {
  
